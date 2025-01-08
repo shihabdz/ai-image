@@ -68,7 +68,7 @@ const Index = () => {
           <div className="space-y-4">
             <div className="space-y-2">
               <label htmlFor="apiKey" className="text-sm font-medium">
-                Replicate API Key
+                مفتاح API لـ Replicate
               </label>
               <Input
                 id="apiKey"
