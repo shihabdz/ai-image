@@ -1,4 +1,4 @@
-# Ai image
+# Ai image for Replicate
 
 ## How to Edit the Code
 
