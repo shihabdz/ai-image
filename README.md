@@ -1,4 +1,4 @@
-# Ai image for Replicate
+# Ai image for Replicate API
 
 ## How to Edit the Code
 
